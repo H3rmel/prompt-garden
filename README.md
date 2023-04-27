@@ -39,6 +39,6 @@ Você pode contribuir de diversas formas, entre elas:
 
 Para saber como utilizar o repositório e manter tudo organizado, acesse o seguinte link para ver como adicionar novos prompts/categorias ou sugerir alterações para o repositório:
 
-[Link](https://github.com/H3rmel/prompt-garden/tree/main/tutoriais)
+[Tutoriais](https://github.com/H3rmel/prompt-garden/tree/main/tutoriais)
 
 > ⚡ Curiosidade: Todo este `README.md` foi criado com a ajuda do ChatGPT 😉
