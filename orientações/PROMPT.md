@@ -1,4 +1,4 @@
-## Criando novo(s) prompt(s)
+# Criando novo(s) prompt(s)
 
 Para criar um novo prompt, você deve criar uma nova *branch* da seguinte forma:
 
