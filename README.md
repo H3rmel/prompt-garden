@@ -13,18 +13,19 @@ Cada prompt segue uma estrutura template/padrão, sendo compostos por:
 - Título descritivo
 - Versão do GPT
 - Categoria pertencente
+  - Subcategoria pertencente
 - Prompt em sua totalidade
 
 Exemplo:
 
 ```
-  Olá, me ensine sobre o React Hook useEffect como se eu fosse uma criança de 5 anos.
+Olá, me ensine sobre o React Hook useEffect como se eu fosse uma criança de 5 anos.
 ```
 
 **Obs.:** Caso o seu prompt tenha palavras que podem ser adaptadas de acordo com o contexto e propósito do prompt, você pode fazer como no exemplo à seguir:
 
 ```
-  Olá, me ensine sobre o React Hook <Nome_Do_Hook> como se eu fosse uma criança de 5 anos.
+Olá, me ensine sobre o React Hook <Nome_Do_Hook> como se eu fosse uma criança de 5 anos.
 ```
 
 Lembrando que esta organização é pensada de forma que permita o projeto escalar consistentemente, sendo utilizado por um grande número de usuários, independentemente do nível de habilidade ou experiência com o ChatGPT.
@@ -34,11 +35,13 @@ Lembrando que esta organização é pensada de forma que permita o projeto escal
 Você pode contribuir de diversas formas, entre elas:
 
 - Adicionando novos prompts
-- Adicionando novas categorias
-- Sugerindo mudanças em prompts e/ou categorias
+- Adicionando novas categorias e subcategorias
+- Sugerindo mudanças em prompts e/ou categorias/subcategorias
 
-Para saber como utilizar o repositório e manter tudo organizado, acesse o seguinte link para ver como adicionar novos prompts/categorias ou sugerir alterações para o repositório:
+Para saber como utilizar o repositório e manter tudo organizado, acesse o seguinte link para ver como adicionar novos prompts, categorias/subcategorias ou sugerir alterações para o repositório:
 
-[Tutoriais](https://github.com/H3rmel/prompt-garden/tree/main/tutoriais)
+[Orientações](https://github.com/H3rmel/prompt-garden/tree/main/orientações)
 
-> ⚡ Curiosidade: Todo este `README.md` foi criado com a ajuda do ChatGPT 😉
+---
+
+⚡ Curiosidade: Todo este `README.md` foi criado com a ajuda do ChatGPT 😉
