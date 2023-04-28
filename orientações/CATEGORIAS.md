@@ -1,17 +1,17 @@
-# Criando uma nova categoria
+# Criando nova(s) categoria(s)/subcategoria(s)
 
 Para criar uma nova categoria ou subcategoria, você deve criar uma nova *branch* da seguinte forma:
 
 Para categorias:
 
 ```
-  categoria-<n>
+categoria-<n>
 ```
 
 Para subcategorias:
 
 ```
-  subcategoria-<n>
+subcategoria-<n>
 ```
 
 No caso, `n` deve ser um número aleatório de até 8 dígitos, você pode escrever você mesmo ou usar um gerador como este:
@@ -27,10 +27,10 @@ A *pull request* deverá conter algumas informações, como:
 - Labels de categoria/subcategoria
   - Use a label "draft" enquanto a *pull request* não estiver finalizada!
 
-Após feito tudo isso, PRONTO! Agora é só esperar, e se tudo estiver certinho e a categoria/subcategoria for válida, a *pull request* será aceita! 😁
+Após feito tudo isso, PRONTO! Agora é só esperar, e se tudo estiver certinho e a categoria/subcategoria for válidada, a *pull request* será aceita!
 
 ---
 
 Caso tenha tido alguma dúvida quanto aos termos técnicos de *branch*, *pull request* e afins, é recomendado que seja estudado sobre Git e GitHub!
 
-Para isso, acesse [este link]() para dar uma olhadinha na recomendação de materiais sobre Git e GitHub que preparamos! 😉
+Para isso, acesse [este link](https://github.com/H3rmel/prompt-garden/blob/main/orienta%C3%A7%C3%B5es/MATERIAL_RECOMENDADO.md) para dar uma olhadinha na recomendação de materiais sobre Git e GitHub que preparamos! 😉
