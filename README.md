@@ -12,8 +12,6 @@ Cada prompt segue uma estrutura template/padrão, sendo compostos por:
 
 - Título descritivo
 - Versão do GPT
-- Categoria pertencente
-  - Subcategoria pertencente
 - Prompt em sua totalidade
 
 Exemplo:
